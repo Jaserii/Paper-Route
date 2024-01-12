@@ -2,6 +2,8 @@
 
 ![Mascot of Red's Paper Company](https://github.com/Jaserii/Paper-Route/blob/main/image4.png "Mascot of Red's Paper Company")
 
+GAME LINK: https://jaserii.itch.io/paper-route
+
 Thanks for applying to Red’s Paper Company! Our goal is to provide top-notch service to our loyal customers.
 
 As the new hire, your job is to deliver newspapers. Conveniently, all of our customers can be identified by the red parts of their buildings so be sure not to deliver any newspapers to blue buildings and please avoid breaking anyone’s windows!
