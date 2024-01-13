@@ -1,0 +1,3 @@
+For some of the code, it looks like an Object or primitive data instance is created within a class but the code does not indicate anything being assigned any actual data.
+
+For example, in the GameData class, some variables have default values while variables like carSpawnChance has nothing assigned to it. Within the Unity editor, I am able to directly access the instance of the GameData class in a level which means most of these default values get overwritten directly in the engine but these changes aren't visible if you just look at it via the code alone.
